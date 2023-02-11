@@ -1,0 +1,2 @@
+# lexa-resource
+Lexa Resource
